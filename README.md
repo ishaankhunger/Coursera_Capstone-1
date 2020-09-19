@@ -1,1 +1,1 @@
-# IBM_DataScienceCapstone
+# Coursera Capstone
